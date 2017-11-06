@@ -1,0 +1,11 @@
+The code is adapted from the NMF_CD package for solving non-negative matrix factorization. 
+
+Download of the datasets: 
+
+CBCL: best download the preprocessed version from http://www.cs.utexas.edu/~cjhsieh/nmf/
+
+Reuters: Install the python nltk and run the ReutPrint.py script. We recommend to turn then the matrix in a .mat file for loading speed.
+
+The KNIX dataset can be downloaded from: http://www.osirix-viewer.com/resources/dicom-image-library/. The raw data is loaded automatically in the getdcm.m script
+
+To reproduce the experiment run the cbcl_run script and de-comment the dataset you want to use.

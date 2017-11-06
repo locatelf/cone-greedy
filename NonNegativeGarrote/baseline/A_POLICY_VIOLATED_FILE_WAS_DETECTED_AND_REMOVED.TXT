@@ -1,0 +1,1 @@
+﻿ScanMail detected and quarantined a file named "clg_lasso_mod.mexw32" that violated attachment blocking policy from the original mail entity. You can safely save or delete this replacement attachment.
